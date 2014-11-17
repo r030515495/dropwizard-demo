@@ -1,4 +1,3 @@
-dropwizard-demo
+JCConf 2014 Dropwizard Demo
 ===============
-
-A simplest demo of Dropwizard restfult service.
+Dropwizard restful service demo of [Dropwizard Restful 微服務 (microservice)初探](http://jcconf.tw/intro-dropwizard-restful-micro-service.html)
