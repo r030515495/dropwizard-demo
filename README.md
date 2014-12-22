@@ -10,4 +10,4 @@ Dropwizard 是近期崛起的一個輕量級的微服務 (Microservice) 框架�
 ### 執行方式###
 從專案根目錄以 command line 執行下列 maven 命令:
 
-    mvn package && mvn exec:java
+    mvn package exec:java
